@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_lbl">Server</string>
+    <string name="none_lbl">None</string>
+    <string name="yes_lbl">Yes</string>
+    <string name="no_lbl">No</string>
+    <!-- Profile -->
+    <string name="payment_type_lbl">Payment type : </string>
+    <string name="unbilled_charges_lbl">Unbilled charges : </string>
+    <string name="next_billing_date_lbl">Next billing date : </string>
+    <!-- Services -->
+    <string name="msn_lbl">MSN</string>
+    <string name="credit_lbl">Credit</string>
+    <string name="expiry_lbl">Expiry date :</string>
+    <string name="threshold_lbl">Has threshold :</string>
+    <!-- Subscriptions -->
+    <string name="subscription_lbl">Subscription</string>
+    <string name="data_balance_lbl">Data balance :</string>
+    <string name="credit_balance_lbl">Credit balance :</string>
+    <string name="rollover_credit_balance_lbl">Rollover credit balance :</string>
+    <string name="rollover_data_balance_lbl">Rollover data balance :</string>
+    <string name="international_talk_balance_lbl">International talk balance :</string>
+    <string name="auto_renew_lbl">Auto renew :</string>
+    <string name="primary_subscription_lbl">Primary subscription :</string>
+    <!-- Products -->
+    <string name="product_lbl">Product</string>
+    <string name="included_data_lbl">Included data :</string>
+    <string name="included_credit_lbl">Included credit :</string>
+    <string name="included_international_talk_lbl">Included international talk :</string>
+    <string name="unlimited_text_lbl">Unlimited text :</string>
+    <string name="unlimited_talk_lbl">Unlimited talk :</string>
+    <string name="unlimited_international_text_lbl">Unlimited international text :</string>
+    <string name="unlimited_international_talk_lbl">Unlimited international talk :</string>
+</resources>

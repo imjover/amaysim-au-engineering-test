@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hi_message">Hi there!</string>
+    <string name="welcome_message">Welcome to</string>
+
+    <!-- Network messages -->
+    <string name="no_connectivity_msg">You do not have internet connectivity. Please check your network.</string>
+    <string name="failed_contacting_server_msg">Failed to contact the server. Please try again later.</string>
+
+    <string name="fetching_data_msg">Fetching data from server&#8230;</string>
+</resources>

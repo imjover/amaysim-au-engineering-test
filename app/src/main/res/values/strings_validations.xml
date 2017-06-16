@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--String for handling empty values-->
+    <string name="required_validation">&#60;variable&#62; is required.</string>
+    <string name="min_length_validation">Minimum length is &#60;minlength&#62;</string>
+
+    <string name="invalid_msn_validation">Invalid MSN.</string>
+</resources>
